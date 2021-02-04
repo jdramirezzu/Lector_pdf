@@ -12,6 +12,7 @@ from pdf2docx import Converter
 from docx2pdf import convert
 import pandas as pd
 import sqlalchemy
+import requests
 
 #Conectar con base de datos, hacer consulta y crear csv con los datos
 def consulta_sql():
@@ -20,7 +21,19 @@ def consulta_sql():
     sql_data.to_csv(r'C:\Users\analista4operaciones\Desktop\Lector\datos_personales.csv', index=False, header = True)
 
 
+def enviar_mensaje():
+    for numero_celular in numeros:
+        url = "http://107.20.199.106/sms/1/text/single"
+        payload="{\r\n  \"to\":\"57"+ numero_celular + "\",\r\n                \"from\": \"Cofincafe\",\r\n                \"text\": \"Este es un mensaje de prueba de la aplicación de las cartas\"\r\n\r\n}"
+        headers = {
+          'Authorization': 'Basic Q29maW5jYWZlMjYwNjpDMEYxTkM0RjM=',
+          'Content-Type': 'application/json'
+        }
+        response = requests.request("POST", url, headers=headers, data=payload)
+        print(response.status_code)
+    
 
+#Extraer los numeros de celular de la lista de datos personales para cada cedula de las cartas
 def lista_celulares():
     df = pd.read_csv(r'C:\Users\analista4operaciones\Desktop\Prueba_base_datos\f1.csv')
     df_2 = pd.read_csv(r'C:\Users\analista4operaciones\Desktop\Prueba_base_datos\datos_personales.csv')
@@ -115,6 +128,7 @@ if __name__ == '__main__':
     x = list(range(pdf_reader.numPages)) #Se crea lista con el numero de paginas
     cedulas = []
     consulta_sql()
+    numeros = []
     
     for pagina in x:
         extract_page('cartas.pdf',pagina)
