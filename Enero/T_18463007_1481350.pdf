@@ -1,0 +1,208 @@
+%PDF-1.3
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/F3 5 0 R
+/F1 8 0 R
+/F2 11 0 R
+>>
+/ExtGState <<
+/GS7 14 0 R
+/GS8 15 0 R
+>>
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/MediaBox [ 0 0 594.96 842.04 ]
+/Contents 16 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 416
+>>
+endobj
+4 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F3
+/BaseFont /TimesNewRomanPS-BoldMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 6 0 R
+/FirstChar 32
+/LastChar 116
+/Widths 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRomanPS-BoldMT
+/Flags 32
+/ItalicAngle 0
+/Ascent 891
+/Descent -216
+/CapHeight 677
+/AvgWidth 427
+/MaxWidth 2558
+/FontWeight 700
+/XHeight 250
+/Leading 42
+/StemV 42
+/FontBBox [ -558 -216 2000 677 ]
+>>
+endobj
+7 0 obj
+[ 250 0 0 500 0 0 0 0 333 333 500 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 333 0 0 0 0 0 930 722 667 722 722 667 611 778 778 389 500 778 667 944 722 778 611 778 722 556 667 722 722 1000 722 722 667 0 0 0 0 500 0 500 0 444 556 444 0 0 0 278 0 0 278 0 556 500 0 0 444 389 333 ]
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /TimesNewRomanPS-ItalicMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 9 0 R
+/FirstChar 32
+/LastChar 243
+/Widths 10 0 R
+>>
+endobj
+9 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRomanPS-ItalicMT
+/Flags 32
+/ItalicAngle -16.4
+/Ascent 891
+/Descent -216
+/CapHeight 694
+/AvgWidth 402
+/MaxWidth 1831
+/FontWeight 400
+/XHeight 250
+/Leading 42
+/StemV 40
+/FontBBox [ -498 -216 1333 694 ]
+>>
+endobj
+10 0 obj
+[ 250 0 420 0 0 0 0 0 0 0 0 0 250 0 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 500 500 444 500 444 278 500 500 278 0 0 278 722 500 500 500 0 389 389 278 500 444 0 0 444 389 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 ]
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /TimesNewRomanPSMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 12 0 R
+/FirstChar 32
+/LastChar 243
+/Widths 13 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRomanPSMT
+/Flags 32
+/ItalicAngle 0
+/Ascent 891
+/Descent -216
+/CapHeight 693
+/AvgWidth 401
+/MaxWidth 2614
+/FontWeight 400
+/XHeight 250
+/Leading 42
+/StemV 40
+/FontBBox [ -568 -216 2046 693 ]
+>>
+endobj
+13 0 obj
+[ 250 0 0 0 0 0 0 0 333 333 0 0 250 0 250 0 500 500 500 500 500 500 500 500 500 500 278 0 0 0 0 0 0 722 0 667 722 611 0 0 722 0 0 0 611 0 722 0 556 0 0 556 0 0 722 0 0 0 0 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 0 0 278 778 500 500 500 500 333 389 278 500 500 0 0 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 500 0 500 ]
+endobj
+14 0 obj
+<<
+/Type /ExtGState
+/BM /Normal
+/ca 1
+>>
+endobj
+15 0 obj
+<<
+/Type /ExtGState
+/BM /Normal
+/CA 1
+>>
+endobj
+16 0 obj
+<<
+/Filter /FlateDecode
+/Length 2155
+>>
+stream
+xœµZİnÛV¾7àwtoÈÂ¢xÿEEQœFŠ‹¶Çå H…¤xßv Wû;3”âÖäQù8‰Š<äÌ™ùæ›j8ªšl¥nøé§á¨iÔíçt	¿åæáâa“?¨»¬PMVÃùö¦¡SïRµL«Ÿ†W¯Çğåü,)}ÃÀ>Há9IOúP¥çgÿúŠó³c×½ZœŸßx $,Vçg\ü+ Ó½±ù°Xã¢·óîêó3îøS¼ûôöüì7kôÑö­÷ø3±ÒšMG¶g]€›ÀÒxVŠ`vum"k:¡3´ô-ı8¡%~»DºÒµÿ€Å/çgÔë×goC¢ş2øë6XûÒğwYø&ïÇ0Ô8éUÙ4åZï§7eÙôøIŠÈ‰À#´(ÈØ	ã^7\ÖnOh¼$=¿o{?Ì3P9YÖåÚnm\4%,S|´X·ø9»Éìğ¬
+RtYİ(Ğ9à¥ı5
+’ür½-2:P¬Íÿ
+xPğ™€¢HIÏRyF[øZ–¬buW^À¦¬`EÈQ÷ô˜
+>«;·tG]B¹ÎjÚ(=Èèö&—ÂñegG¹‚M•Ö­¡Sç“’Ş#Cä.–IZÌÒDâ:±Ä(p¼°—(XÖ*%;æHØ"ñû”5­%Ôzg‘‹®AN—-¤ç:Ñıöh­/B¼9ÄCişæ<¼î0sŠ}Û±È²ÊTA€V@¨*B½‚·t*kƒutk‡V‰¡¨CÏIz‘…ıD§×AsíäxŞ7Ìupİ7Ìå%NÒeˆqYVhN"š-°—d6õ—ä2V´á†)…¯imwŠ’•l×¯äAÛ¹‰ã‡´›v.èv6ÃTè†]›‘Ê‚j\.‰1·Ë²r´öø^áÂ‹)k„gJı®ºÇu\úÇaˆš÷	).·Oí„®şÍjÂ(&–ù†ÒF‹€ç+-½€<tŒÒ0œoTA¿O_ƒ;¼TÅXi=˜Ìm£†( ’0£RG?rÜãûD!iD!Mõ,LPP—·X|eXĞüná"Zûİîè³4ÂwâP£Áfñ˜EÛT ÓİôËè‰»m>Â»OÔQ,ˆËF¯ñèª[Å=K2itÙ[[Jkj‹?âÑŒa%öq…u•_bÒ†€ğo]ÆF¿ÔiavıÂD£˜¢ØÏW¹ÑËX8Àô„b§k5¼wBğ#¢Ğ7…Â	äSÆ"ß‘'Qxğ‚Œ„®$‡(óŸ¦yÀ˜Á¨Sè¹ndX&Ö^‰Nä‘sObüÀ‰Ä)JE/	éöuR7<XÓl@!=L¼&†Ó©Ÿ0Júõ8Â:±ëôF²è²ä]æ'Øx]—å°æş¤õÜ=Ïh°£_4|¢0ç‘]å±şì'Ciö æ†/§!VV¬lê×Šæ@U¾¿_¶_šÃ¦ÚŸGëf¥c˜C|+tO·eLßƒÄŠ…¸Ï“Û1µ¸T¼hä’å–_¶Y•atĞ´Ì¬ğ½Ÿ£Ä‘]áÛºÁv‰½YglŸbQ#x|õf:ãÖGo˜×±3¼sA’…N2;ä
+V¸÷”J{Bïg>KH[$R_^ Ş·:é*¡d]V
+ïÛ…Y»yÇ(íW[.2=?8 Í°G<?vÂH'lù§ª»óç	Œ„#´8¦6Ó›GNĞIá~˜8â¤rS˜éÎ5D`×ÑÍ×”·sd§Ÿ¤•² ¨jŠÕÒşŸ<<¥Àãµ`ŒªF:MEè^ÄIˆÌJ•¾{@ê1n31ÃĞ´	>MûN*R…‰‚LÒ§ìSµ>´Ø@Ø(;² ŞBFÅF±â)2•	Ñc1‘C­n9¦Ç†‡ÊÊwÌ‹ü¡µ]ª¯Õ	M›…k½3cı@lÒ¿©EûštN5¿3˜^’¶—Ü2Ï¸só{ƒ-®®ùÌx:™µMõœCe<aÆóŠ—i±}á:aWûG…á×OÓÙ´í´Wj_Ù±5~·;?‚£ÀWøÔ´İ÷‡	®¢	Ì~?W3¸Ş7îÓÙbÊ·â3‘u=ñnÿ<Tjorğ)óö“Yx¡#c	C}~¯_<¤¬¨Ë+ä†Ğ~ÜıGz‰\†™5â÷ğ]veòÌ	h—V]®Ò4"ñŠ‰A‡†V½Øs¼Ó
+Í¿V=,â.„/éËÔmñk·56Q5·X¨KªZ™:*é}[Ïî^Ûs‡ÁWÕÄ§û–™Tğª»rß¬ÕìÊ/‹‰§·û§M[ó1¬K¾ŸIşğÁÈâÕ	Ì­xlvZÄNØUä5·#íÓïÏ©©|‰ÆÈÃÿƒ.ğÚüòhKz×‹éÈp}*<IÓmÇÀÌĞ8GĞù§à÷ü§iehŒÒï0‰àïÎQÚ×©ÅnB‘ë¾\’ò8ËE½O Ğ³Ûõ†ßägkşÒwnZ–°ä°¨7Ûöë6ø˜±I¡”§¨n€ª”wTß¤»Í=08^ÓÉFÆŠs?­Ùş1^14Gê%Jˆi¦ÃÒ`Å•NÒåï'õgQÖeÃßH@˜´¢§šF`Xˆm EÈ¯
+„×jöT—3ŒJÂÃ¦¸Ïš½‚‚5ƒ¯Ib×
+¸[ÚÖPŞä$7»kù{©šûØ?! m£^„şdœ8aNË¬^U[Ô¹Q¼ËwqCª2/ó¼d•ñ¬/¬2æéBíóA–ÒMxåê6ğY•·ú.'q"ZQÅŸòğpì2Ô¶áêkRhc»Ü¤{—5í—áîéªé0“üÂQc—>@ÿ’ÌÇı
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000068 00000 n 
+0000000108 00000 n 
+0000000439 00000 n 
+0000000488 00000 n 
+0000000675 00000 n 
+0000000931 00000 n 
+0000001239 00000 n 
+0000001429 00000 n 
+0000001691 00000 n 
+0000002189 00000 n 
+0000002374 00000 n 
+0000002626 00000 n 
+0000003174 00000 n 
+0000003231 00000 n 
+0000003288 00000 n 
+trailer
+<<
+/Size 17
+/Root 4 0 R
+/Info 2 0 R
+>>
+startxref
+5517
+%%EOF

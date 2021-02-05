@@ -1,0 +1,202 @@
+%PDF-1.3
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/F3 5 0 R
+/F2 8 0 R
+/F1 11 0 R
+>>
+/ExtGState <<
+/GS7 14 0 R
+/GS8 15 0 R
+>>
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/MediaBox [ 0 0 594.96 842.04 ]
+/Contents 16 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/StructParents 250
+>>
+endobj
+4 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F3
+/BaseFont /TimesNewRomanPS-BoldMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 6 0 R
+/FirstChar 32
+/LastChar 116
+/Widths 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRomanPS-BoldMT
+/Flags 32
+/ItalicAngle 0
+/Ascent 891
+/Descent -216
+/CapHeight 677
+/AvgWidth 427
+/MaxWidth 2558
+/FontWeight 700
+/XHeight 250
+/Leading 42
+/StemV 42
+/FontBBox [ -558 -216 2000 677 ]
+>>
+endobj
+7 0 obj
+[ 250 0 0 500 0 0 0 0 333 333 500 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 333 0 0 0 0 0 930 722 667 722 722 667 611 778 778 389 500 778 667 944 722 778 611 778 722 556 667 722 722 1000 722 722 667 0 0 0 0 500 0 500 0 444 556 444 0 0 0 278 0 0 278 0 556 500 0 0 444 389 333 ]
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F2
+/BaseFont /TimesNewRomanPSMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 9 0 R
+/FirstChar 32
+/LastChar 243
+/Widths 10 0 R
+>>
+endobj
+9 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRomanPSMT
+/Flags 32
+/ItalicAngle 0
+/Ascent 891
+/Descent -216
+/CapHeight 693
+/AvgWidth 401
+/MaxWidth 2614
+/FontWeight 400
+/XHeight 250
+/Leading 42
+/StemV 40
+/FontBBox [ -568 -216 2046 693 ]
+>>
+endobj
+10 0 obj
+[ 250 0 0 0 0 0 0 0 333 333 0 0 250 0 250 0 500 500 500 500 500 500 500 500 500 500 278 0 0 0 0 0 0 722 0 667 722 611 0 0 722 0 0 0 611 0 722 0 556 0 0 556 0 0 722 0 0 0 0 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 0 0 278 778 500 500 500 500 333 389 278 500 500 0 0 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 500 0 500 ]
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/Name /F1
+/BaseFont /TimesNewRomanPS-ItalicMT
+/Encoding /WinAnsiEncoding
+/FontDescriptor 12 0 R
+/FirstChar 32
+/LastChar 243
+/Widths 13 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/FontName /TimesNewRomanPS-ItalicMT
+/Flags 32
+/ItalicAngle -16.4
+/Ascent 891
+/Descent -216
+/CapHeight 694
+/AvgWidth 402
+/MaxWidth 1831
+/FontWeight 400
+/XHeight 250
+/Leading 42
+/StemV 40
+/FontBBox [ -498 -216 1333 694 ]
+>>
+endobj
+13 0 obj
+[ 250 0 420 0 0 0 0 0 0 0 0 0 250 0 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 500 500 444 500 444 278 500 500 278 0 0 278 722 500 500 500 0 389 389 278 500 444 0 0 444 389 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 ]
+endobj
+14 0 obj
+<<
+/Type /ExtGState
+/BM /Normal
+/ca 1
+>>
+endobj
+15 0 obj
+<<
+/Type /ExtGState
+/BM /Normal
+/CA 1
+>>
+endobj
+16 0 obj
+<<
+/Filter /FlateDecode
+/Length 2048
+>>
+stream
+xœµZÛnÛH}7à(Ì¾«Å&»yYPd%QàH[É`çòĞ¶(‡€ÄVHÊ€÷o÷æi`«šT<c’­Ü²a[â­ª«OªSÖpTTÙJİUğÃÃQU©»Ïé~.ôö÷áâq›?¨û,WU¦óáÍî¶¢CoSµL‹„W—cør~&%ó}a(àó€%1p<( HÏÏ~şòó³C¯{µ8?¾€û°XŸqğğ›ƒéŞ˜E¼èÍM÷åù™÷æ]Ü¼{s~ö«3ºv…ó&îÀwfÓ‘8à%°t“â	˜Í?¹ƒÈ™Nè]úŠ.½Ğ%¢¾Ä÷|ÏıïÎÏ&è×O/^†şûòÏË0Ş7NÃ_mÕæ<æÑW‡!>B&‚%!ÄÂg^Û	ıKà8„QÌbÿï¬Áäı†=xx¥«Joú!ñZëêÏøÿœö:œxŒûä6o¶*'Ÿß§—à¯T~NZ&7î±^u†RF,:Æ%nÇ¥–?"bŞa[ûÌ!ßŠC=Yê'L¶œ•úÎ•N¦–ú7_(w ßÜV~½ÈÎ‹ÃK`!,½ä…$!ã–Wïæ7	CTp=™ÎFW—sx3rçzŒ,4ÁÍh6F{;!fúåEë ¤É¨Ï¹B&N2³°Í†©àrï>Î04Ó9¼ÿFğà1ØPãŠŒ#mT·
+Uã{Œ°;ÒÎîp&ıçä##Áü£Ø0<!ùÈĞc2ùûüÓ2@¸‡E!î3IóPZ6)°:õY<`"K9ÛQ"¥,âÇ8Ÿ¾×…ÕIYeÔşm ÜĞ!”5J,&Ü1I·D'±ÎDöÂ#·ŒÛiµº÷L$óÚ¤7YÃ†¸V×[÷ aišuúUV
+(Íõf—›³wxPáıÍş›CZ‚;ˆMw¿Æû ËW¸ßºØ(*­Åz¾ì¾>tÛbl4Ì4³Ì!Â“L}KæÂ$N¨ìÂRHÊ~]ŠÜòË.+2L­.,ßïs”0¿m|WV¨=ÌnæÖ[P2öÏ_OgÔy^#6°®sÿy.¼˜È2ïs€Âk+\{J½!¡÷³9JHk$¦è\xßå$cÍYBÉF
+ïk’ÂnÜ‚ 0(ívÛ,[òÖ,ïH bF}Æ–¨’Y6qÆ{!p÷ÚÑ”“­.Â„ñ£ô?¥®’³¸]<?Qá^#;m	ø&Aê\Ñ9å@QR~˜lP5íÿA•ÁÈO°ŞÆèjÔç©¼ˆ|N{¦ô2çÇß°yÈ¦YR½]½…Ğ¹£zTnCXöBÉL´İúP#A£ÜÈrµùJˆ1j¢§Vb¥"°­±8Vt£®Ôºá]do|:»¥úÚ›Ğ`‘{Î)x»â’îEÍÇõà`¶Á¿°hØ6{LD}ÆÇ©.ÌÊ¯Q¤Ó@ãŠ‚?}œÎ¦µj^ÌéÏ9|ñ.¸ÇÂ¶s³{áşi&_¨'20ÏÀÅâ9Œ§ÆÅñÛ9ŒŸGŸÜı•o6/ænÜ,ƒzenï›/0c¯X\Hé5~áè«İB&˜i}+=$ßN8*’ˆÆ5ÇxuÊYA,nŸ«”¨Ìd½À¬ßèÒèÜÖ%µX&ƒsz¥Ñ”[7_k£7şmô"¡()ı÷úáÏÍU÷z¯,Ê'2 _9ÑÊnÿô¼ª›8ó6ÚÜo8éğÁH:ÅÌ¼Ğ˜ÇÎ¼¢Ë‘‡èMûXšŞ¹~ÚÓıkR@§èâƒÈëÊÿšŸby‡QAö´ÜLq,«¼×‡C`fc"bä5~Q}>Æ«SD°°ş±ÑÖy#§S `=d¥Fé\™LÀŠ†ÂÃÌKpgl7Û5?Û˜ßi^5'×¨ÍMZ”[“>%HsÄ&¥Ò:}DÏpTTßRw›6jD:&Ç%¬”e¬ˆØˆ¿å²+'Åw$VüSb²¨ÍßÏÚ¥\—º"ø“Z¾=•4¯Á2º{„!{¾Ê^4WØSİÚÀH#n,k-/ &´g¶•¤~ÃX–?˜Œ¨sÉ$ÂFa ˆ¦Z#Wv%èÛ5Å2»¯9ÅLi’ñIÀ`†=B­cNCé6ÑN‘eV®ŠKk0;·Æ…Ü’«Í"ĞŸUf†íxb•™Ú“«}ËRº	Ï<BY×5sT­ë¹©³¦¸®¨éNÍôn ›ª»«y©øZèj¾ÒÛtCòÀy ³¶©ƒ”Vo\IR;š½sğîÇ1í¾-ÑŞåU°è8B³¡Jy´}Ç·?ñİMÊ6]W4í˜©Õª'qÙm°êš¦à¯œ]İíûxTğÙÌåè>LÖ¦=¤ÿ3Ğ{ì	Õ½¾0CÕ‰3õ€OÆ7ŸÕ=°ñ,¹zC…[(|ĞËR¼7AÈDû(_·EZÖ«OÙwvms1?ì³}4lŒxw·æûX+rÊ†~jSqRïJFÙÆë¨.XLš­²ÜVûâ>ã¶LöÙ:$ş–”bW[ÆIŸò:Æ+[ÿjíÊ^£ìi»5Z™ÊM`æª0Ş˜ö¼¦·•¦*Jv’¡—²Ë»±6Ã4óA¼,§Ê®Ìk#uş~â<}L¯~?VtOEídQKìäDM§ßáµi3¶Å±^ƒï–º°®bM{ÑãAØş1°
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000068 00000 n 
+0000000108 00000 n 
+0000000439 00000 n 
+0000000488 00000 n 
+0000000675 00000 n 
+0000000931 00000 n 
+0000001239 00000 n 
+0000001422 00000 n 
+0000001673 00000 n 
+0000002221 00000 n 
+0000002413 00000 n 
+0000002676 00000 n 
+0000003174 00000 n 
+0000003231 00000 n 
+0000003288 00000 n 
+trailer
+<<
+/Size 17
+/Root 4 0 R
+/Info 2 0 R
+>>
+startxref
+5410
+%%EOF
