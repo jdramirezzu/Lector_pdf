@@ -61,8 +61,8 @@ def lista_celulares():
 #Crear archivo plano con identificacion y numero de prestamo
 def archivo_plano():
     f =open('f1.csv','w')
-    for a,b in cedulas:
-        f.write(a+','+b+'\n')
+    for a,b,c,d in cedulas:
+        f.write(a+','+b+','+c+','+d+','+'\n')
     f.close()
     
 
@@ -90,48 +90,80 @@ def extract_page(doc_name, page_num):
     texto = informacion.extractText() #leer el texto de la pagina
     texto_2 = texto.split() #hacer una lista con el texto encontrado
     
+    
     #Condicional para obtener cedula
     if 'Asociado:' in texto_2:
         indice = texto_2.index('Asociado:')
-        nombre = texto_2[indice+1]
+        cedula = texto_2[indice+1]
     else:
         indice = texto_2.index('Estimado')
-        nombre = texto_2[indice-1]
+        cedula = texto_2[indice-1]
     
-    #Condicional para obtener numero del prestamo
+    if 'Asociado(a)' in texto_2:
+        indice_titular_1 = texto_2.index('Asociado(a)')
+        primer_nombre_titular = texto_2[indice_titular_1+1]
+    
+    if 'Asociado(a)' in texto_2:
+        indice_titular_2 = texto_2.index('Asociado(a)')
+        segundo_nombre_titular = texto_2[indice_titular_2+2]
+    
+    if 'Asociado(a)' in texto_2:
+        indice_titular_3 = texto_2.index('Asociado(a)')
+        apellido_titular = texto_2[indice_titular_3+3]
+    
+    #condicionales para obtener numero del prestamo y nombre
     if 'No.' in texto_2:
         indice_2 = texto_2.index('No.')
-        nombre_2 = texto_2[indice_2+1]
+        no_prestamo = texto_2[indice_2+1]
     elif 'adquirido' in texto_2:
         indice_2 = texto_2.index('adquirido')
-        nombre_2 = texto_2[indice_2+1]
+        no_prestamo = texto_2[indice_2+1]
     else:
         indice_2 = texto_2.index('en')
-        nombre_2 = texto_2[indice_2+1]
+        no_prestamo = texto_2[indice_2+1]
     
+    if 'Señor(a)' in texto_2:
+        indice_3 = texto_2.index('Señor(a)')
+        primer_nombre = texto_2[indice_3 + 1]
+    
+    if 'Señor(a)' in texto_2:
+        indice_4 = texto_2.index('Señor(a)')
+        segundo_nombre = texto_2[indice_4 + 2]
+    
+    if 'Señor(a)' in texto_2:
+        indice_5 = texto_2.index('Señor(a)')
+        apellido = texto_2[indice_5 + 3]
+        
     #Condicional para determinar si el documento se nombra como titular o codeudor
     if "codeudor:" in texto_2:
-        with open(f'C_{nombre}_{nombre_2}.pdf', 'wb') as doc_file: #Se incluye el contenido de la pagina seleccionada en el pdf
+        with open(f'C_{primer_nombre}_{segundo_nombre}_{apellido}_{cedula}_{no_prestamo}.pdf', 'wb') as doc_file: #Se incluye el contenido de la pagina seleccionada en el pdf
             pdf_writer.write(doc_file)
+        
+        nombre_archivo = f'C_{primer_nombre}_{segundo_nombre}_{apellido}_{cedula}_{no_prestamo}.pdf'
+        nombre_cliente = f'{primer_nombre} {segundo_nombre} {apellido}'
+        
     else:
-        with open(f'T_{nombre}_{nombre_2}.pdf', 'wb') as doc_file: #Se incluye el contenido de la pagina seleccionada en el pdf
+        with open(f'T_{primer_nombre_titular}_{segundo_nombre_titular}__{apellido_titular}_{cedula}_{no_prestamo}.pdf', 'wb') as doc_file: #Se incluye el contenido de la pagina seleccionada en el pdf
             pdf_writer.write(doc_file)
+        nombre_archivo = f'T_{primer_nombre_titular}_{segundo_nombre_titular}__{apellido_titular}_{cedula}_{no_prestamo}.pdf'
+        nombre_cliente = f'{primer_nombre_titular} {segundo_nombre_titular} {apellido_titular}'
+   
     
-    cedulas.append((nombre, nombre_2))
+    cedulas.append((nombre_cliente, cedula, no_prestamo,nombre_archivo))
 
 
 #funcion inicializadora
 if __name__ == '__main__':
-    pdf_word('cartas.pdf', 'cartas.docx')
-    word_pdf('cartas.docx', 'cartas.pdf')
+    #pdf_word('cartas.pdf', 'cartas.docx')
+    #word_pdf('cartas.docx', 'cartas.pdf')
     pdf_reader = PyPDF2.PdfFileReader(open('cartas.pdf', 'rb')) #Nuevamente objeto para leer pdf por que el de la función es en ese scoop
     x = list(range(pdf_reader.numPages)) #Se crea lista con el numero de paginas
     cedulas = []
-    consulta_sql()
-    numeros = []
+    #consulta_sql()
+    #numeros = []
     
     for pagina in x:
         extract_page('cartas.pdf',pagina)
    
     archivo_plano()
-    lista_celulares()
+    #lista_celulares()
